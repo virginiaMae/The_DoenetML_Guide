@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-7-Dynamic_Page_Content" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Dynamic Page Content</title>
+
+  <introduction>
+    <p>This chapter covers the creation of Doenet content with complex control flows or 
+        that dynamically updates in response to user-interactions. 
+    </p>
+  </introduction>
+
+  
+  <!-- <xi:include href="./sec-7-?-Video_Interactions.ptx" /> -->
+  
+
+
+</chapter>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-1-Quick_Start" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Quick Start Guide to DoenetML</title>
+
+  <introduction>
+    <p>Welcome to Doenet! Use the following sections if you are brand new to the language.</p>
+  </introduction>
+
+  <xi:include href="./sec-1-1-Sandbox.ptx" />
+  <xi:include href="./sec-1-2-Tutorial_Intro.ptx" />
+
+
+</chapter>

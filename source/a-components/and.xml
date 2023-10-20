@@ -1,0 +1,95 @@
+<section>
+    <title><tag>and</tag></title>
+  
+  <sideBySide>
+    
+  <section><title>What it does</title>
+  <tag>and</tag> functions as the boolean operator <c>and</c> or <c>&</c>, and checks to see whether all enclosed <tag>boolean</tag> references are <c>true</c>.</section>
+  
+  <div>
+  <!-- future tutorial video -->
+  </div>
+  </sideBySide>
+  
+    
+  <contentPicker separateByTopic label="Select example">
+  
+    <example>
+      <title><tag>and</tag> in a <tag>boolean</tag></title>
+      <setup><topic>Quick start</topic></setup>
+  
+      <codeEditor showResults resultsLocation="left">
+  <p>Enter a number between 5 and 10, excluding 7:
+    <mathInput name="n"/></p>
+        
+  <boolean name="check1">$n > 5</boolean>
+  <boolean name="check2">$n < 10</boolean>
+  <boolean name="check3">$n != 7</boolean>
+        
+  <p>You have entered a number between 5 and 10, excluding 7:
+    <boolean>
+      <and>$check1 $check2 $check3</and>
+    </boolean></p>
+      </codeEditor>
+  
+      <aside startOpen>
+        <title>About this example</title>
+  <p>The <tag>and</tag> component functions as the boolean operator <c>and</c> or <c>&</c>, and checks to see whether all enclosed <tag>boolean</tag> references are <c>true</c>.</p>
+      </aside>
+    </example>
+  
+  
+    <example newNameSpace>
+      <title><tag>and</tag> in an <tag>award</tag></title>
+      <setup><topic>Quick start</topic></setup>
+  
+      <codeEditor showResults resultsLocation="left">
+  <p>Move the point to the intersection of the circle and the line in the first quadrant. (Scroll down to check work.)</p>
+        
+  <graph size="small">
+    <point name="p">
+      <constraints>
+        <attractTo>$line1</attractTo>
+        <attractTo>$circ1</attractTo>
+      </constraints>
+    </point>
+    <circle name="circ1" center="(0,0)" radius="4" fixed/>
+    <line name="line1" fixed>y = 3/2 x - 2</line>
+  </graph>
+  
+  <answer>
+    <award>
+      <when>
+        <and>$onCircle $onLine $firstQuad</and>
+      </when>
+    </award>
+  </answer>
+  
+  <boolean name="onCircle" allowedErrorInNumbers="0.01">
+    ($p.y)^2 + ($p.x)^2 = 16</boolean>
+  <boolean name="onLine" allowedErrorInNumbers="0.01">
+    $p.y = 3/2 $p.x - 2</boolean>
+  <boolean name="firstQuad">
+    $p.x > 0 and $p.y > 0</boolean>
+      </codeEditor>
+  
+      <aside startOpen>
+        <title>About this example</title>
+  <p>An <tag>and</tag> component is used to construct a compound boolean from three referenced <tag>boolean</tag> components within an <tag>award</tag>.</p>
+      </aside>
+    </example>
+  
+  </contentPicker>
+  </section>
+  
+  
+  
+  
+  <!--To Do:
+  Quick-start
+  and in a boolean
+  and in an award
+  
+  
+  -->
+  

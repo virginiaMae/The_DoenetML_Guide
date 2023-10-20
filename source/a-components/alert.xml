@@ -1,0 +1,32 @@
+<section>
+    <title><tag>alert</tag></title>
+  
+  <sideBySide>
+    
+  <section><title>What it does</title>
+  <tag>alert</tag> is a paragraph markup function which renders the enclosed text in bold font.</section>
+  
+  <div>
+  </div>
+  </sideBySide>
+  
+  <contentPicker separateByTopic label="Select example">
+  <!--**************************************************
+           render text in bold font
+  ***************************************************-->
+  <example newNameSpace>
+      <title>Render the enclosed text in bold font</title>
+      <setup><topic>Quick start</topic></setup>
+  
+      <codeEditor showResults resultsLocation="left">
+  <p>Take the <alert>right</alert> turn.</p>
+      </codeEditor>
+  
+      <aside startOpen>
+        <title>About this example</title>
+  <p>The <tag>alert</tag> expression is used to render the enclosed text in bold font.</p> 
+      </aside>
+    </example>
+  
+  </contentPicker>
+  </section>

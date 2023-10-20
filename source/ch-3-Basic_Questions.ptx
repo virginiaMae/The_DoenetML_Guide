@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-2-Static_Page_Content" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Static Page Content</title>
+
+  <introduction>
+    <p>This chapter covers the creation of simple questions in DoenetML, as well as introducing the capabilities of 
+        Doenet's built-in computer algebra system.
+    </p>
+  </introduction>
+
+  <!-- <xi:include href="./sec-3-1-Multiple_Choice_Questions.ptx" />
+  <xi:include href="./sec-3-2-Fill-in-the-Blank_Questions.ptx" />
+  <xi:include href="./sec-3-3-Doenets_Computer_Algebra_System.ptx" />
+  <xi:include href="./sec-3-4-The_Answer_Component.ptx" />
+  <xi:include href="./sec-3-5-The_Award_Component.ptx" />
+  <xi:include href="./sec-3-6-Basic_Graph_Validation.ptx" /> -->
+</chapter>

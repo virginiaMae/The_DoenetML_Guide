@@ -1,0 +1,27 @@
+<section xml:id="sec-1-2-Tutorial_Intro" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Introduction to DoenetML</title>
+  
+    
+<p><alert>How to Use this Tutorial.</alert>
+  If you're learning DoenetML for the first time, you should read each section in order.  
+  If you skip around, you're likely to miss something important.  Certain features (such as "attributes") 
+  are introduced in the midst of discussing other topics. Keep the following in mind:</p>
+  
+    <ul>
+      <li><p>Throughout the tutorial, you'll find code editors which show you both 
+        DoenetML code and the resulting display on the screen.  These code editors are "live," 
+        meaning you can change the DoenetML code, click "update," and see how the display changes.  
+        <em>You should do this!</em>. Experimenting with these snippets of DoenetML code is a great 
+        way to learn the language.</p></li>
+  
+      <li><p>If you need to review a topic, come back to this annotated table of contents. 
+        Use your browser's search function to see where a certain tag (a basic building block of DonetML) 
+        or other concept is covered.</p></li>
+  </ul>
+  
+    <p>Finally: this entire tutorial is written using DoenetML!  You can click the "See Inside" button 
+      on any page to study the code which produced everything you see on screen.</p>
+  
+  
+    <!-- include Jon's tutorial content here -->
+  </section>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-6-Interactive_Graphs_II" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Interactive Graphs - Part II</title>
+
+  <introduction>
+    <p>In this chapter, we will expand upon the information contained in <xref ref="./ch-4-Interactive_Graphs_I.ptx" text="title"/>
+        and learn how to create more complex interactive graphing activities. The use of animations within graphs will also be described.
+    </p>
+  </introduction>
+
+  <!-- <xi:include href="./sec-3-1-Multiple_Choice_Questions.ptx" />-->
+  
+</chapter>

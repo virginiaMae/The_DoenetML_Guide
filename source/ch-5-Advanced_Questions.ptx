@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-5-Advance_Questions" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Advanced Questions</title>
+
+  <introduction>
+    <p>This chapter covers the creation of complex questions in DoenetML.
+    </p>
+  </introduction>
+
+  <!-- <xi:include href="./sec-3-1-Multiple_Choice_Questions.ptx" />-->
+  
+</chapter>

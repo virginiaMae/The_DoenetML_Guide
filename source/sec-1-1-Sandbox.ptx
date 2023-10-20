@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-1-1-Sandbox" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Sandbox - All Components alphabetical</title>
+
+  <p>This page contains all of the current DoenetML components in an alphabetical library.
+    If you are just getting started, try browsing through some of the examples for these components. Each example has two
+    frames: the one on the right (or top) contains the DoenetML code required to generate the content rendered in the frame
+    on the left (or bottom) side. You can practice
+    the language by changing the examples and clicking the Update button on the upper-left side of the left (or bottom)
+    frame. Your changes will be reflected immediately.
+  </p>
+
+  <!-- include main alphabetical sandbox here -->
+  <!-- https://www.doenet.org/portfolioviewer/_7KL7tiBBS2MhM6k1OrPt4 -->
+</section>

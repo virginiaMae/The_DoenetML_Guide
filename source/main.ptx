@@ -4,15 +4,22 @@
   <!-- we first include a file which contains the docinfo element: -->
   <xi:include href="./docinfo.ptx" />
 
-  <book xml:id="my-great-book">
-    <title>My Great Book</title>
-    <subtitle>An example to get you started</subtitle>
+  <book xml:id="the-doenetML-guide">
+    <title>The DoenetML Guide</title>
+    <!-- <subtitle>Make incredible learning experiences!</subtitle> -->
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="./ch-chapter-title.ptx" />
+    <xi:include href="./ch-1-Quick_Start.ptx" />
+    <xi:include href="./ch-2-Static_Page_Content.ptx" />
+    <xi:include href="./ch-3-Basic_Questions.ptx" />
+    <xi:include href="./ch-4-Interactive_Graphs_I.ptx" />
+    <xi:include href="./ch-5-Advanced_Questions.ptx" />
+    <xi:include href="./ch-6-Interactive_Graphs_II.ptx" />
+    <xi:include href="./ch-7-Dynamic_Page_Content.ptx" />
+    <xi:include href="./ch-8-Simulations.ptx" />
 
 
     <!-- Include backmatter -->

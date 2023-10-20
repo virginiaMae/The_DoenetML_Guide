@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-2-3-Videos" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Videos</title>
+
+  <p>To embed videos with DoenetML, you can use the <tag>video</tag> component. If it is also desired to include
+    captions, or descriptions, it may be beneficial to nest the <tag>video</tag> component within a <tag>figure</tag>. 
+    A direct link to the video may be provided with the <attr>source</attr> attribute, or if the video is hosted on YouTube,
+    one can use the <attr>youtube</attr> attribute. The rendered appearance of the video can be adjusted with the <attr>width</attr>, 
+    or <attr>size</attr> attributes, among others.   
+  </p>
+  <p>It is also possible to access data from the <tag>video</tag> component with respect to the user's interactions
+    with the content. This will be covered in greater detail in the chapter on <xref ref="./ch-7-Dynamic_Page_Content" text="title"/>
+</p>
+
+</section>

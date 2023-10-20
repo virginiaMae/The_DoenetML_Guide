@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-4-Interactive_Graphs_I" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Interactive Graphs - Part I</title>
+
+  <introduction>
+    <p>In this chapter, we will begin to describe the basic graphical features in DoenetML, as well as describing how to 
+        track user's interactions with the content in a graph.
+    </p>
+  </introduction>
+
+  <!-- <xi:include href="./sec-3-1-Multiple_Choice_Questions.ptx" />-->
+  
+</chapter>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-2-1-Sectional_Components" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Sectional Components</title>
+
+  <p>Content on a page is organized within a heirarchy that is defined by the use of what we will call
+    <term>sectional components</term>. Some sectional components have a default auto-naming or auto-numbering
+    schema built-in (that can, however, usually be overwritten by the author with the use of custom <term>attributes</term>).
+    Some of the more common sectional components are <tag>section</tag>, <tag>problem</tag>, <tag>figure</tag>, and <tag>exercise</tag>.
+    The most frequently used sectional component is the paragraph tag, which is abbreviated to just <tag>p</tag>. 
+  </p>
+  <p>Sectional components in DoenetML are designed to match the rendering behavior of those used in 
+    <ref uri="source/ch-1-Quick_Start.ptx">PreTeXt</ref>.</p>
+
+</section>

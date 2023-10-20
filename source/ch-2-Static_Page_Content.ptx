@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-2-Static_Page_Content" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Static Page Content</title>
+
+  <introduction>
+    <p>This chapter covers the basics of creating textbook-like content in DoenetML. For these applications,
+      the language is very similar to <ref uri="source/ch-1-Quick_Start.ptx">PreTeXt</ref>.  Here you will learn how
+      structural divisions of content are organized with what are referred to as <term>sectional components</term>, as well
+      as how to embed videos, images, simple graphs, and links to external content. 
+    </p>
+  </introduction>
+
+  <xi:include href="./sec-2-1-Sectional_Components.ptx" />
+  <xi:include href="./sec-2-2-Display_Mathematics.ptx" />
+  <xi:include href="./sec-2-3-Videos.ptx" />
+  <!-- <xi:include href="./sec-2-4-Images.ptx" />
+  <xi:include href="./sec-2-5-Graphs.ptx" />
+  <xi:include href="./sec-2-6-Tables.ptx" />
+  <xi:include href="./sec-2-7-Lists.ptx" />
+  <xi:include href="./sec-2-8-Links.ptx" />
+  <xi:include href="./sec-2-9-Spreadsheets.ptx" />
+  <xi:include href="./sec-2-10-External_Content.ptx" /> -->
+
+
+</chapter>

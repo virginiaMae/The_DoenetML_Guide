@@ -1,0 +1,52 @@
+<section>
+    <title><tag>abs</tag></title>
+  
+  <sideBySide>
+    
+  <section><title>What it does</title>
+  <tag>abs</tag> renders the absolute value of the enclosed math.</section>
+    
+  <div>
+    <!-- future tutorial video -->
+  </div>
+  </sideBySide>
+  
+  
+  <contentPicker separateByTopic label="Select example">
+  <!--*****************************************************-->
+  <example newNameSpace><title>Render the absolute value of an expression</title>
+    <setup><topic>Quick start</topic></setup>
+    <codeEditor showResults resultsLocation="left">   
+      <m>|5 - 8| = <abs>5 - 8</abs></m>
+    </codeEditor>
+    <aside startOpen><title>About this example</title> The <tag>abs</tag> component is used to render the absolute value of a math expression.</aside>  
+  </example>
+  
+  <!--*****************************************************-->
+  <example newNameSpace><title>Render the absolute value of a user-input</title>
+    <setup><topic>Quick start</topic></setup>
+    <codeEditor showResults resultsLocation="left">   
+      <p>Type any number: <mathInput name="userN"/></p>
+      <p><m>|$userN| = <abs>$userN</abs></m></p>
+    </codeEditor>
+    
+    <aside startOpen><title>About this example</title> The <tag>abs</tag> component is used to render the absolute value of a named <tage>mathInput</tage>.</aside>  
+  </example>
+  
+  
+  <!--*****************************************************-->
+  <example newNameSpace><title>Render the absolute value of a function</title>
+    <setup><topic>Quick start</topic></setup>
+    <codeEditor showResults resultsLocation="left">  
+      <graph size="small">
+         <function name="f">(1/4)x^2 - 4</function>
+         <function styleNumber="2">
+           <abs>$f</abs>
+         </function>
+       </graph>
+    </codeEditor>
+    <aside startOpen><title>About this example</title> The <tag>abs</tag> component is used to render the absolute value of a named <tag>function</tag> within a <tag>graph</tag>.</aside>  
+  </example>
+  
+  </contentPicker>
+  </section>

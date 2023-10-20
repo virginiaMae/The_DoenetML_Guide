@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-2-2-Display_Mathematics" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Display Mathematics</title>
+
+  <p>When mathematical content is rendered in Doenet, it can come from two types of sources: <term>display mathematics</term> 
+    components, and <term>functional mathematics</term> components. See sec ****** for more information on functional mathematics.
+    If it is not necessary to perform compuations with the mathematical content to be rendered, one can use a variety of 
+    rendering tools that are designed to match the behavior of content written in LaTeX. Users that are unfamiliar with LaTeX are
+    referred to <ref uri="https://www.overleaf.com/learn/latex/Mathematical_expressions">this guide</ref> for a quick introduction.
+    Some of the more common components that you will use to define display mathematics in DoenetML are the <tag>m</tag>, <tag>me</tag>, 
+    <tag>mdn</tag> and <tag>men</tag> components. 
+  </p>
+  <p>Display mathematics components in DoenetML are designed to match those used in 
+    <ref uri="source/ch-1-Quick_Start.ptx">PreTeXt</ref>.</p>
+
+</section>
